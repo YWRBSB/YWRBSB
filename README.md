@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, I'm Yuri
+<a href="www.linkedin.com/in/yuri-ribeiro-irl"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **YWRBSB/YWRBSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
